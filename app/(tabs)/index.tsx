@@ -6,7 +6,7 @@ export default function Index() {
     <View
     className="flex-1 items-center justify-center"
     >
-      <Text className="text-5xl text-accent">ZenFLIX Rework</Text> 
+      <Text className="text-5xl text-black">zenFlix Rework</Text> 
     </View>
   );
 }
